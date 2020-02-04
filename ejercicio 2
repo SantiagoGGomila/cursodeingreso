@@ -1,0 +1,11 @@
+{
+	var nombre;
+	nombre=;
+
+	nombre=prompt(nombre);
+
+	alert(nombre);
+	
+	//Esto me salio a la primera pero no se si esta bien programado
+
+}
