@@ -1,0 +1,11 @@
+{
+	var nombre;
+	nombre=
+	
+	//nombre=document.getElementById('elNombre').value;//no se porque no me toma el .value (ya intente reescribiendo todo el codigo completo)//
+	//nombre=document.getElementById('elNombre').value; no estaba escribiendo nada en el cuadro de texto "su nombre"//
+	nombre=document.getElementById('elNombre').value;
+
+
+	alert(nombre);
+}
